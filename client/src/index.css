@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+  .appcolor{
+    @apply bg-linear-to-t from-sky-500 to-indigo-500
+  }
+}
